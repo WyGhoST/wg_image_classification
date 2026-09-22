@@ -1,0 +1,3 @@
+Accuracy in CSV uses [0,1]. Train seconds excludes validation, test, plotting, and checkpoint writes.
+Different optimizers/lr are recorded: results compare these configurations, not architecture alone.
+Training metrics are measured during updates (CNN dropout enabled); validation uses evaluation mode.

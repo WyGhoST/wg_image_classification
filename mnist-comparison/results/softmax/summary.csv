@@ -1,0 +1,2 @@
+﻿model,test_loss,test_accuracy,macro_f1,num_parameters,best_epoch,training_seconds,validation_seconds,device,optimizer,learning_rate
+softmax,0.2776319574713707,0.9223,0.9211267510568535,7850,9,61.3054855,11.453259499999994,cpu,manual SGD,0.1

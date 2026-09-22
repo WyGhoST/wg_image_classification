@@ -1,0 +1,2 @@
+﻿model,test_loss,test_accuracy,macro_f1,num_parameters,best_epoch,training_seconds,validation_seconds,device,optimizer,learning_rate
+cnn,0.03996745613543317,0.9868,0.9867277717175789,52138,7,135.71029260000003,17.905556399999966,cpu,Adam,0.001
